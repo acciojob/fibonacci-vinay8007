@@ -12,7 +12,7 @@ function fibonacci(num) {
 	}
 	return b;
 }
-console.log(finonacci(1));
+console.log(fibonacci(1));
 console.log(fibonacci(5));
 
 module.exports = fibonacci;
